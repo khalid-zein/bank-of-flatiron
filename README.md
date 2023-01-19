@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Bank Of Flatiron
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Bank of Flatiron, where you can trust us with all your financial data!
 
-## Available Scripts
+## Live Page
 
-In the project directory, you can run:
+https://bankify-transactions.netlify.app/
 
-### `npm start`
+## installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Open terminal(Ctrl+Alt+T)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. install        
 
-### `npm test`
+        npx create-react-app [Folder Name]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. 
 
-### `npm run build`
+        cd [Folder Name]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. code . or atom . depending on the text editor of your choice.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5. Link with your gitHub Repo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+6. Open page Review
 
-### `npm run eject`
+        npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. [HTML](https://)
+2. [CSS](https://)
+3. [Javascript](https://)
+4. [Bootstrap](https://)
+5. [React](https://)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Demo of live page
+![demo](https://media.giphy.com/media/ZFLMZ7TMQ4kx2Fw8mJ/giphy.gif)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Future Updates
 
-## Learn More
+1. To make this web application an android app
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Improvement on user experience in this app
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## BDD
 
-### Code Splitting
+|Behaviour                         | Input                                 |                                                 output|
+| ---------------------------------| ------------------------------------- | ----------------------------------------------------- |
+| Click(Add Transaction)           |   Date/Description/Amount             |   New Transaction is added at the end of the page     |
+| click(Delete)                    |                                       |   its delete transaction history                      |
+| Search                           |   description of transaction          |   it output depending if that transaction is available|
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Author:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[Khalid Zein](https:yueyyt)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contact
 
-### Advanced Configuration
++254794794734
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Email: zeinkhalid004@gmail.com
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
